@@ -102,6 +102,8 @@ struct HomeScreen: View {
                         .background(Color.gray.opacity(0.3))
                     PostItems(img_url: "profile_image")
                     PostItems(img_url: "post_image")
+                    ProfileItem()
+                    ItParkPostItem()
                 }
             }
         .navigationBarItems(

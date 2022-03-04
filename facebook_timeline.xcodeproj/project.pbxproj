@@ -19,6 +19,7 @@
 		76AC010027D0D37900A87BF9 /* PostItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AC00FF27D0D37900A87BF9 /* PostItems.swift */; };
 		76AC645027D0D62A0021B094 /* CreateStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AC644F27D0D62A0021B094 /* CreateStory.swift */; };
 		76B110C227D2255800A221B4 /* ProfileItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B110C127D2255800A221B4 /* ProfileItem.swift */; };
+		76B110C427D29ED800A221B4 /* ItParkPostItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B110C327D29ED800A221B4 /* ItParkPostItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		76AC00FF27D0D37900A87BF9 /* PostItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostItems.swift; sourceTree = "<group>"; };
 		76AC644F27D0D62A0021B094 /* CreateStory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateStory.swift; sourceTree = "<group>"; };
 		76B110C127D2255800A221B4 /* ProfileItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileItem.swift; sourceTree = "<group>"; };
+		76B110C327D29ED800A221B4 /* ItParkPostItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItParkPostItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				76AC00FF27D0D37900A87BF9 /* PostItems.swift */,
 				76AC644F27D0D62A0021B094 /* CreateStory.swift */,
 				76B110C127D2255800A221B4 /* ProfileItem.swift */,
+				76B110C327D29ED800A221B4 /* ItParkPostItem.swift */,
 			);
 			path = cells;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				76AC00FA27D0D32F00A87BF9 /* RoomItem.swift in Sources */,
 				76AC010027D0D37900A87BF9 /* PostItems.swift in Sources */,
 				76AC00FC27D0D34D00A87BF9 /* CreateRoom.swift in Sources */,
+				76B110C427D29ED800A221B4 /* ItParkPostItem.swift in Sources */,
 				76B110C227D2255800A221B4 /* ProfileItem.swift in Sources */,
 				76AC645027D0D62A0021B094 /* CreateStory.swift in Sources */,
 				76AC00FE27D0D36100A87BF9 /* StoryItem.swift in Sources */,

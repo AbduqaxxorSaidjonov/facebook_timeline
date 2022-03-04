@@ -58,6 +58,7 @@ struct ProfileItem: View {
                     .font(.system(size: 20))
                 Spacer()
             }
+            .frame(height: 40)
             .padding(.leading,10)
             .padding(.top,10)
             
@@ -82,6 +83,12 @@ struct ProfileItem: View {
             }
             .frame(height: 40).frame(maxWidth: .infinity)
             .padding(.top,5)
+            
+            HStack{
+            }
+            .frame(height: 10)
+            .frame(maxWidth: .infinity)
+            .background(Color.gray.opacity(0.3))
         }
     }
 }
